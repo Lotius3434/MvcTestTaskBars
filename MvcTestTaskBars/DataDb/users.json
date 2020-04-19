@@ -1,0 +1,23 @@
+[
+  
+    {
+      "id": 1,
+      "surname": "Поляков",
+      "name": "Андрей",
+      "patronymicName": "Николаевич"
+    },
+    {
+      "id": 2,
+      "surname": "Нуруллина",
+      "name": "Алия",
+      "patronymicName": "Фархатовна"
+    },
+    {
+      "id": 3,
+      "surname": "Иванов",
+      "name": "Евгений",
+      "patronymicName": "Алексеевич"
+    }
+  
+
+]
