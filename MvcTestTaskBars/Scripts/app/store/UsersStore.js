@@ -5,11 +5,12 @@ Ext.define('MvcExtTest.store.UsersStore', {
     storeId: 'UsersStore',
     proxy: {
         type: 'ajax',
-        url: 'Scripts/app/data/users.json',
+        url: "ReadJson/GetData",
         reader: {
             type: 'json',
-            root: 'users',
-            successProperty: 'success'
+            method: 'POST',
+            //root: 'users',
+            //successProperty: 'success'
         }
     }
 });

@@ -1,24 +1,23 @@
-{
-  "success": true,
-  "users": [
+[
+  
     {
       "id": 1,
-      "surname": "Корягин",
-      "name": "Артем",
+      "surname": "Поляков",
+      "name": "Андрей",
       "patronymicName": "Николаевич"
     },
     {
       "id": 2,
-      "surname": "Гафиятуллина",
+      "surname": "Нуруллина",
       "name": "Алия",
       "patronymicName": "Фархатовна"
     },
     {
       "id": 3,
-      "surname": "Корягин",
-      "name": "Николай",
+      "surname": "Иванов",
+      "name": "Евгений",
       "patronymicName": "Алексеевич"
     }
-  ]
+  
 
-}
+]
